@@ -1,3 +1,15 @@
 .page-body {
     height: 100vh;
 }
+
+.gray-text {
+    color: #dfd2ca;
+}
+
+.blue {
+    background-color: #307aab;
+}
+
+.light-gray {
+    background-color: #eeeff1;
+}
