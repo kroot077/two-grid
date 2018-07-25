@@ -1,4 +1,8 @@
-.page-body {
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page-body {
     height: 100vh;
 }
 
